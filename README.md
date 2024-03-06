@@ -10,6 +10,7 @@
 - sveltekit (i mean who doesn't love sveltekit 😕).
 - msgpack (json but speeeeeeeeeed 😁).
 - desktop apps ([pywebview](https://pywebview.flowrl.com/) + [sveltekit](https://kit.svelte.dev/) combo 😘)
+- sysadmin stuff.
 
 ### Something i like
 - cat 😸
@@ -46,6 +47,7 @@ Any of my public project is desktop-based application, all of my web-based or fr
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IDNatte&repo=webmon-v3-client)](https://gitlab.com/IDNatte/webmon-v3-client)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IDNatte&repo=nyanga-read)](https://gitlab.com/IDNatte/nyanga-read)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IDNatte&repo=tppmap)](https://github.com/IDNatte/tppmap)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IDNatte&repo=ipflag)](https://github.com/IDNatte/ipflag)
 
 ### My language of choice
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDNatte&layout=donut)
