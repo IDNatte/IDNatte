@@ -39,6 +39,11 @@
 - docker (PTSD from ckan-docker 😖).
 - DevOps thing (any of them 😖).
 
+### Something i want to learn (interested in)
+- go language (because i need and really really interested to the point obsessed with performance and concurrent programming) 😁
+- gleam (new language in town bebeeehh)
+- mojo (i heard it is successor python for speedy thing)
+
 ### What am i working on ?
 
 Any of my public project is desktop-based application, all of my web-based or front-end project is private repository  
