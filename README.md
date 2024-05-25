@@ -46,7 +46,12 @@
 
 ### What am i working on ?
 
-Any of my public project is desktop-based application, all of my web-based or front-end project is private repository  
+Any of my public project is desktop-based application, all of my web-based or front-end project is private repository
+
+here is example some of my project in the wild (front-end / extension)
+- [web kabupaten tapin](https://web.tapinkab.go.id/)
+- [ulauncher extension](https://ext.ulauncher.io/-/github-idnatte-ulauncher-nyanga)
+- [karindangan DISBUDPAR Tapin](https://karindangan.tapinkab.go.id)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IDNatte&repo=webmon-v3)](https://gitlab.com/IDNatte/webmon-v3)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=IDNatte&repo=webmon-v3-client)](https://gitlab.com/IDNatte/webmon-v3-client)
